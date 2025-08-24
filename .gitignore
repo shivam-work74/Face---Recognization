@@ -1,0 +1,18 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+.venv/
+env/
+venv/
+
+# Ignore dataset (private images)
+dataset/
+
+# Ignore trained model files
+trainer/
+
+# Ignore VSCode settings
+.vscode/
